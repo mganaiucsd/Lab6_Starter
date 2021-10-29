@@ -5,7 +5,10 @@
 const recipes = [
   'https://introweb.tech/assets/json/ghostCookies.json',
   'https://introweb.tech/assets/json/birthdayCake.json',
-  'https://introweb.tech/assets/json/chocolateChip.json'
+  'https://introweb.tech/assets/json/chocolateChip.json',
+  'assets/recipes/recipe1.json',
+  'assets/recipes/recipe2.json',
+  'assets/recipes/recipe3.json'
 ];
 
 // Once all of the recipes that were specified above have been fetched, their
@@ -81,6 +84,11 @@ function bindShowMore() {
   // that were fetched. You should fetch every recipe in the beginning, whether you
   // display it or not, so you don't need to fetch them again. Simply access them
   // in the recipeData object where you stored them/
+
+  document.addEventListener('click', event => {
+    
+  }
+
 
   // Part 2 Explore - TODO
 }
