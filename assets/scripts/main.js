@@ -70,10 +70,15 @@ function createRecipeCards() {
 
   // Part 1 Expose - TODO
   var main = document.querySelector('main');
+  let i = 0;
   for (let url in recipeData) {
+    i++;
     var newRecipe = document.createElement('recipe-card');
     newRecipe.data = recipeData[url];
     main.appendChild(newRecipe);
+    if (i == 3){
+      //break;
+    }
   }
 }
 
@@ -85,9 +90,6 @@ function bindShowMore() {
   // display it or not, so you don't need to fetch them again. Simply access them
   // in the recipeData object where you stored them/
 
-  document.addEventListener('click', event => {
-    
-  }
 
 
   // Part 2 Explore - TODO
