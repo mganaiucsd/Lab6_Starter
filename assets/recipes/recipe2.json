@@ -1,300 +1,261 @@
-[
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "headline": "Easy Fudgy Brownies From Scratch (Our Favorite)",
+  "image": "https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-2-1200.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Adam and Joanne Gallagher"
+  },
+  "publisher": {
+    "@type": "organization",
+    "name": "Inspired Taste"
+  },
+  "url": "https://www.inspiredtaste.net/24412/cocoa-brownies-recipe/",
+  "datePublished": "2020-10-01",
+  "dateModified": "2021-09-14",
+  "description": "Our favorite brownies recipe from scratch. You only need one bowl, a saucepan, and a spoon. In the first step, we ask that you melt the butter with sugar, cocoa powder, and salt in a bowl set over a saucepan of simmering water. This process ensures that crinkly top that we all love. You can do this step in the microwave, but I do find the stovetop method to be more consistent. These brownies aren&#8217;t too sweet. If you are like us and find yourself reaching for darker chocolate over milk chocolate, these are most certainly for you. Use natural or Dutch-process cocoa powder for these (cacao powder works, too). I especially love using Droste Cacao (a Dutch process powder).",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "recipeYield": "Makes 16 Brownies",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "keywords": "easy cocoa brownies from scratch",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1 brownie",
+    "calories": "158",
+    "proteinContent": "2 g",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "2 g",
+    "sugarContent": "16 g",
+    "fatContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "cholesterolContent": "42 mg"
+  },
+  "recipeIngredient": [
+    "10 tablespoons (145 grams) unsalted butter",
+    "1 ¼ cups (250 grams) granulated sugar",
+    "3/4 cup plus 2 tablespoons (80 grams) unsweetened cocoa powder, natural or Dutch-process",
+    "1/4 rounded teaspoon kosher salt, use slightly less if using fine sea or table salt",
+    "1 teaspoon vanilla extract",
+    "2 large cold eggs",
+    "1/2 cup (65 grams) all-purpose flour",
+    "2/3 cup (75 grams) chopped walnuts or pecans, optional"
+  ],
+  "recipeInstructions": [
+    "Position an oven rack in the lower third of the oven and heat to 325 degrees F. Line the bottom and sides of an 8-inch square baking pan with parchment paper or aluminum foil, leaving an overhang on two opposite sides. (This helps when removing the baked brownies from the pan, once cooled).",
+    "Add enough water to a medium saucepan so that it is 1 to 2 inches deep. Heat water until barely simmering.",
+    "Combine butter, sugar, cocoa powder, and salt in a medium heat-safe bowl. Rest the bowl over simmering water (if the bottom of the bowl touches the water, remove a little water). Stir the mixture occasionally until the butter has melted and the mixture is quite warm. Don’t worry if it looks gritty; it will become smooth once you add the eggs and flour.",
+    "Remove the bowl from heat and set aside for 3 to 5 minutes until it is only warm, not hot. Stir in the vanilla with a spoon. Then add the eggs, one at a time, stirring vigorously after each one.",
+    "When the batter looks thick, shiny, and well blended, add the flour and stir until fully incorporated, then beat with the wooden spoon or spatula for 40 to 50 strokes. (The batter will be thick). Beat vigorously here. You want to see the brownie batter pulling away from the sides of the bowl (if you do not have the strength to do this by hand, use a hand mixer). Stir in nuts, if using. Spread evenly in lined pan.",
+    "Bake the brownies for 20 to 25 minutes or until a toothpick can be inserted into the center and come out with a few moist crumbs. As a visual test, brownies are done when the edges will look dry and the middle still looks slightly underbaked.",
+    "Some readers have found they need to bake an extra 5 to 10 minutes. Brownies are easy to overbake so keep an eye on the doneness of the brownies and use the visual and toothpick test as your guide.",
+    "Cool completely then remove from pan. For the cleanest lines when cutting, place into the freezer for 20 to 30 minutes to firm up. Cut into 16 squares."
+  ],
+  "video": {
+    "@type": "VideoObject",
+    "embedUrl": "https://www.youtube.com/embed/i31mrIYNheI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/i31mrIYNheI/maxresdefault.jpg",
+    "name": "Our Favorite Easy Fudgy Brownies From Scratch - Updated",
+    "description": "Easy brownies recipe from scratch that's way better than the box. Fudgy brownies with cocoa powder, butter, eggs, and sugar. Recipe and video included!",
+    "duration": "PT2M52S",
+    "uploadDate": "2016-09-02",
+    "contentUrl": "https://www.youtube.com/watch?v=i31mrIYNheI"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "853"
+  },
+  "review": [
     {
-      "@context": "http://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "item": {
-            "@id": "https://www.allrecipes.com/",
-            "name": "Home",
-            "image": null
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "item": {
-            "@id": "https://www.allrecipes.com/recipes/",
-            "name": "Recipes",
-            "image": null
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "item": {
-            "@id": "https://www.allrecipes.com/recipes/156/bread/",
-            "name": "Bread",
-            "image": null
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 4,
-          "item": {
-            "@id": "https://www.allrecipes.com/recipes/1035/bread/pizza-dough-and-crusts/",
-            "name": "Pizza Dough and Crust Recipes",
-            "image": null
-          }
-        }
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "Recipe",
-      "mainEntityOfPage": "https://www.allrecipes.com/recipe/20171/quick-and-easy-pizza-crust/",
-      "name": "Quick and Easy Pizza Crust",
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2020%2F11%2F09%2FQuick-and-Easy-Pizza-Crust2-2000.jpg",
-        "width": 2000,
-        "height": 1333
-      },
-      "datePublished": "2000-05-12T12:30:34.000Z",
-      "description": "This is a great recipe when you don't want to wait for the dough to rise.  You just mix it and allow it to rest for 5 minutes and then it's ready to go!!  It yields a soft, chewy crust.  For a real treat, I recommend you use bread flour and bake it on a pizza stone, but all-purpose flour works well too. Enjoy!",
-      "prepTime": null,
-      "cookTime": null,
-      "totalTime": "PT50M",
-      "recipeYield": "1 12-inch pizza crust",
-      "recipeIngredient": [
-        "1 (.25 ounce) package active dry yeast",
-        "1 teaspoon white sugar",
-        "1 cup warm water (110 degrees F/45 degrees C)",
-        "2 ½ cups bread flour",
-        "2 tablespoons olive oil",
-        "1 teaspoon salt"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 450 degrees F (230 degrees C). In a medium bowl, dissolve yeast and sugar in warm water. Let stand until creamy, about 10 minutes.\n"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in flour, salt and oil. Beat until smooth. Let rest for 5 minutes.\n"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Turn dough out onto a lightly floured surface and pat or roll into a round. Transfer crust to a lightly greased pizza pan or baker's peel dusted with cornmeal. Spread with desired toppings and bake in preheated oven for 15 to 20 minutes, or until golden brown. Let baked pizza cool for 5 minutes before serving.\n"
-        }
-      ],
-      "recipeCategory": [
-        "Bread",
-        "Pizza Dough and Crust Recipes"
-      ],
-      "recipeCuisine": [],
+      "@type": "Review",
       "author": [
         {
           "@type": "Person",
-          "name": "CHEF RIDER"
+          "name": "Dragana"
         }
       ],
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": 4.69802371541502,
-        "ratingCount": 3795,
-        "itemReviewed": "Quick and Easy Pizza Crust",
+      "datePublished": "2021-10-26 07:15:52",
+      "description": "Thank you very much!You saved my day with the sudden visitors!I have to say that I used a bit of leftover chocolate.Everyone was mmmmmmmmmmm saying 🙂 Thanks again",
+      "reviewRating": {
+        "@type": "Rating",
         "bestRating": "5",
+        "ratingValue": "5",
         "worstRating": "1"
-      },
-      "nutrition": {
-        "@type": "NutritionInformation",
-        "calories": "169.8 calories",
-        "carbohydrateContent": "28.1 g",
-        "cholesterolContent": null,
-        "fatContent": "4 g",
-        "fiberContent": "1.1 g",
-        "proteinContent": "4.8 g",
-        "saturatedFatContent": "0.6 g",
-        "servingSize": null,
-        "sodiumContent": "292.8 mg",
-        "sugarContent": "0.6 g",
-        "transFatContent": null,
-        "unsaturatedFatContent": null
-      },
-      "review": [
+      }
+    },
+    {
+      "@type": "Review",
+      "author": [
         {
-          "@type": "Review",
-          "datePublished": "2008-05-14T20:48:59.09Z",
-          "reviewBody": "The best pizza crust recipe that I have ever made! When using jarred active dry yeast, 2-1/4 tsp. yeast = (.25 ounce) package active dry yeast.",
-          "reviewRating": {
-            "@type": "Rating",
-            "worstRating": "1",
-            "bestRating": "5",
-            "ratingValue": 5
-          },
-          "author": {
-            "@type": "Person",
-            "name": "Robyn",
-            "image": null,
-            "sameAs": "https://www.allrecipes.com/cook/2826971/"
-          }
-        },
-        {
-          "@type": "Review",
-          "datePublished": "2007-12-30T23:47:56.97Z",
-          "reviewBody": "We love this recipe. It's extremely easy to double and works just as well, so we usually make a double batch and put one pizza in the freezer to eat sometime later. We find this recipe to be equal to any typical rise-then-punch-then-rise crust we've made, and far superior to any frozen or refrigerated store-bought pizza crust.\n\nI usually add mixed herbs to the dough - I sometimes just do a teaspoon of ground-up \"pizza spice\" but if I don't have pizza spice on hand I'll just toss in a mixture of approx 1/2 tsp basil, 1/2 tsp oregano, and 1/4 tsp onion powder. (The best and easiest way to add herbs is to mix them into the olive oil before you add it to the batter - that will ensure even distribution throughout the entire dough.) Then I mix a bit of garlic powder (about 1/4 to 1/2 tsp) into the olive oil that I brush onto the edge of the crust, which gives it a touch of garlicky flavor and helps the edge turn nice and golden in the oven.\n\nAdded later: I've also used this recipe to make breadsticks; I still add the herbs and garlic oil, and do everything according to the recipe. After letting the dough rise for 5-10 min, pinch off golfball-sized pieces and roll them between your hands until they're 4-5\" long. Cook on a lightly greased cookie sheet, 1\" apart, at 450 for 14-18 minutes. It makes 12-16 4\"-5\" breadsticks.",
-          "reviewRating": {
-            "@type": "Rating",
-            "worstRating": "1",
-            "bestRating": "5",
-            "ratingValue": 5
-          },
-          "author": {
-            "@type": "Person",
-            "name": "Robin F",
-            "image": null,
-            "sameAs": "https://www.allrecipes.com/cook/1596934/"
-          }
-        },
-        {
-          "@type": "Review",
-          "datePublished": "2003-12-07T22:33:51.64Z",
-          "reviewBody": "Homemade pizza crust! What a treat for my and husbanad and me. I've never made dough from scratch before and this couldn't be easier. I found this recipe over the weekend and have already made it twice. To make it even easier, I cut out the step where I beat the ingredients together. I just use my hands. So easy and good! Both times I've used this dough recipe with the Classic Margharita Pizza recipe on this website. What a great combination! Try to get a pizza stone if you don't have one because it bakes perfectly. Both times my husband keeps on forgetting I made it from scratch and didn't pick it up at a gourmet restaurant. Bravo!",
-          "reviewRating": {
-            "@type": "Rating",
-            "worstRating": "1",
-            "bestRating": "5",
-            "ratingValue": 5
-          },
-          "author": {
-            "@type": "Person",
-            "name": "Famouscook",
-            "image": null,
-            "sameAs": "https://www.allrecipes.com/cook/383163/"
-          }
-        },
-        {
-          "@type": "Review",
-          "datePublished": "2011-08-01T22:26:03Z",
-          "reviewBody": "This is as easy as can be. These days, I make it every two weeks, and not for pizza -- which I've used it for, as well as calzones -- but for foccaccia bread.\n\nI've decided to stop buying baguette, which is deadly to a single girl, and now make a double batch of this.\n\nI *do* knead it for 5-10 minutes. I raise it an hour or two, then I cut it into 8 balls. Each portion I stick in a Ziploc sandwich bag, then freeze.\n\nI pop it in the fridge the night before I want one, let it come to room temp for an hour after work, shape into a flatbread on a floured board, let it rise until a finger indent remains, preheat my pizza stone to 450, put olive oil, sea salt, rosemary on my flatbread, and bake until it's golden-brown and bubbly. WONDERFUL.\n\nFor a pizza bianco -- a little fresh basil, fresh mozza, sea salt (add charcuterie if you like) -- and bake until happy.\n\nFor calzone, it's fabulous.\n\nFreezing this dough gives it time to rise and get happy. It's easy to make, will freeze for 4-6 weeks, and I highly recommend it as a way to give yourself a LITTLE incredible flatbread with a barbecued meal, salad, whatever.\n\nJust my take. :)",
-          "reviewRating": {
-            "@type": "Rating",
-            "worstRating": "1",
-            "bestRating": "5",
-            "ratingValue": 5
-          },
-          "author": {
-            "@type": "Person",
-            "name": "cookin' chick",
-            "image": null,
-            "sameAs": "https://www.allrecipes.com/cook/2615158/"
-          }
-        },
-        {
-          "@type": "Review",
-          "datePublished": "2012-07-09T20:24:27.363Z",
-          "reviewBody": "This recipe makes homemade pizza a simple dinner any night of the week.  I usually double it to make two big pizzas.  The only thing I change is the cooking method.  I heat the oven to 450, put the dough on a big cookie sheet, pop it into the oven on the lowest rack, turn it up to 500, and let it bake for 5 minutes.  Then I pull it out, turn the heat down to 450 again, spread on sauce, cheese and toppings, and put it back into the oven until the cheese is melted.  This always gives a perfectly brown crust that is crispy on the edges and bottom.  Even with my cheap oven and no pizza stone, baking this way gives great results!",
-          "reviewRating": {
-            "@type": "Rating",
-            "worstRating": "1",
-            "bestRating": "5",
-            "ratingValue": 5
-          },
-          "author": {
-            "@type": "Person",
-            "name": "A.S.G.",
-            "image": null,
-            "sameAs": "https://www.allrecipes.com/cook/2222528/"
-          }
-        },
-        {
-          "@type": "Review",
-          "datePublished": "2007-05-28T14:26:10.953Z",
-          "reviewBody": "My cleaning lady, a dough expert, changed the instructions slightly and we ended up with a beautiful, soft dough.\nInstead of using the entire cup of warm water in which to dissolve the yeast, she used only a half cup, and the remaining half she added to the flour mixture.  She also took time to knead the dough and let it rest. Results were amazing!  I had her make some mini rounds to use as appetizers and some slightly larger ones to freeze to use as part of a quick meal or snack when needed.  I'll have her make more next week!  She also mentioned that, if you added more sugar (to taste), this dough would make a lovely bread.",
-          "reviewRating": {
-            "@type": "Rating",
-            "worstRating": "1",
-            "bestRating": "5",
-            "ratingValue": 5
-          },
-          "author": {
-            "@type": "Person",
-            "name": "WONDERWABBIT",
-            "image": null,
-            "sameAs": "https://www.allrecipes.com/cook/1139698/"
-          }
-        },
-        {
-          "@type": "Review",
-          "datePublished": "2003-12-03T16:31:03.107Z",
-          "reviewBody": "Delicious & Easy!  I read previous reviews and also added Italian spices and onion powder.  Also, let dough rise 1/2 hour.  Great recipe.  Will make again.",
-          "reviewRating": {
-            "@type": "Rating",
-            "worstRating": "1",
-            "bestRating": "5",
-            "ratingValue": 5
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BBURG_HOKIES",
-            "image": null,
-            "sameAs": "https://www.allrecipes.com/cook/687241/"
-          }
-        },
-        {
-          "@type": "Review",
-          "datePublished": "2003-06-27T22:19:17.467Z",
-          "reviewBody": "This crust is just as it says - quick and easy. It's the first time I've made my own pizza crust. It is at least as good as most restaurant pizza crusts. Also it was easier to work with than most crust mixes I've used.  Others have said it doesn't have a lot of flavor but -it's pizza crust- what do you expect. I like it and my husband likes it too.",
-          "reviewRating": {
-            "@type": "Rating",
-            "worstRating": "1",
-            "bestRating": "5",
-            "ratingValue": 4
-          },
-          "author": {
-            "@type": "Person",
-            "name": "SUNDROP79",
-            "image": null,
-            "sameAs": "https://www.allrecipes.com/cook/665639/"
-          }
-        },
-        {
-          "@type": "Review",
-          "datePublished": "2003-10-25T21:44:24.81Z",
-          "reviewBody": "This is a good if you're REALLY pressed for time, but it didn't turn out as well as my usual recipe that calls for a dough rise.  I added Italian seasoning and garlic, and the crust still tasted somewhat bland.",
-          "reviewRating": {
-            "@type": "Rating",
-            "worstRating": "1",
-            "bestRating": "5",
-            "ratingValue": 3
-          },
-          "author": {
-            "@type": "Person",
-            "name": "Tiffany",
-            "image": null,
-            "sameAs": "https://www.allrecipes.com/cook/2583/"
-          }
+          "@type": "Person",
+          "name": "Claudia"
         }
       ],
-      "video": {
-        "@context": "http://schema.org",
-        "@type": "VideoObject",
-        "name": "Quick and Easy Pizza Crust",
-        "description": "Homemade pizza in less than 30 minutes? This recipe shows you how.",
-        "uploadDate": "2012-07-10T16:52:32.242Z",
-        "duration": "PT2M45.957S",
-        "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F83108818-1b7b-4971-b363-c924665417d7%2Fe6d6b900-9e5b-40ae-a877-2d33e0b8ed06%2F160x90%2Fmatch%2Fimage.jpg",
-        "publisher": {
-          "@type": "Organization",
-          "name": "Allrecipes",
-          "url": "https://www.allrecipes.com",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.allrecipes.com/img/logo.png",
-            "width": 209,
-            "height": 60
-          },
-          "sameAs": [
-            "https://www.facebook.com/allrecipes",
-            "https://twitter.com/Allrecipes",
-            "https://www.pinterest.com/allrecipes/",
-            "https://www.instagram.com/allrecipes/"
-          ]
-        },
-        "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1728991547001"
+      "datePublished": "2021-10-24 18:15:17",
+      "description": "To anyone looking for THE best brownie recipe: look no further, this is IT! I’ve tried dozens of brownie recipes from the internet and this one is the first one that surpassed my expectations . Thank you for sharing it!!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lexi Bucad"
+        }
+      ],
+      "datePublished": "2021-10-18 18:18:37",
+      "description": "It was delicious so good I would not change a thing",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Edo"
+        }
+      ],
+      "datePublished": "2021-10-16 18:55:26",
+      "description": "Best brownie recipe ever!!! My brownie turned out nice and moist :) It was crispy/ crunchy on the outside and soft on the inside. I cut the sugar by around a 1/3- 1/4 cup. It was still sweet and delicious!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Colleen"
+        }
+      ],
+      "datePublished": "2021-10-16 09:08:53",
+      "description": "Love the brownies! Fudgy and delicious. I am not getting the crackly top, where am I going wrong?? I follow directions precisely, is it the mixing after adding the flour? Mixing in the eggs? Appreciate any tips!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Thorhildur"
+        }
+      ],
+      "datePublished": "2021-10-11 07:36:57",
+      "description": "This brownie was so good, it was perfeat and easy to make, my family loved it so much and im makining it for the 2 time today.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Michelle"
+        }
+      ],
+      "datePublished": "2021-10-09 10:19:53",
+      "description": "Thanks so much for the recipe! I baked for 50 minutes in the end but it turned out amazing!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Ashley"
+        }
+      ],
+      "datePublished": "2021-10-06 13:42:06",
+      "description": "WOW!!!!!! AMAZING!!!! I’ve made a bunch of different brownies before but it’s really hard to find ones that are fudgy! The search is over! Fudgiest brownies ever!!!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nur Ayu"
+        }
+      ],
+      "datePublished": "2021-09-28 21:37:45",
+      "description": "I love the brownie. It's SO good! Definitely going to remake this again and again. Thank you for sharing.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Farheen Muddassir"
+        }
+      ],
+      "datePublished": "2021-10-13 01:57:18",
+      "description": "Hello dear let me tell you this brownie recipe is the best brownie recipe ever made. I have been making it since 5 yrs and it is loved by all even my lil kids teacher's. I live in Dubai and made 2 batches as a gift in post wedding function back in my home country after 2days and all the travelling this brownies were a hit everyone started asking for the recipe. For me it is perfect better than any store bought or even brownie mix. I would never ever try any other recipe of brownie this is my final recipe. Thanks dear for sharing the recipe we all love it.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Ana"
+        }
+      ],
+      "datePublished": "2021-09-16 22:48:13",
+      "description": "This brownie is just perfect. The nuts add an amazing touch. The amount of sugar is perfect. It tastes even better the next day.Thank you for this wonderful recipe!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
       }
     }
-  ] 
+  ]
+}

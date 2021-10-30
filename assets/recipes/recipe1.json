@@ -3,42 +3,46 @@
     "@graph": [
         {
             "@type": "Organization",
-            "@id": "https://www.loveandlemons.com/#organization",
-            "name": "Love and Lemons",
-            "url": "https://www.loveandlemons.com/",
+            "@id": "https://www.livewellbakeoften.com/#organization",
+            "name": "Live Well Bake Often",
+            "url": "https://www.livewellbakeoften.com/",
             "sameAs": [
-                "https://www.facebook.com/lovelemonsfood",
-                "https://www.instagram.com/loveandlemons/",
-                "https://www.pinterest.com/loveandlemons/",
-                "https://twitter.com/lovelemonsfood"
+                "https://www.facebook.com/livewellbakeoften/",
+                "https://www.instagram.com/livewellbakeoften/",
+                "https://www.youtube.com/channel/UCD-j3_B7SEn7PpR-nH5nQNQ",
+                "http://pinterest.com/livewellbake",
+                "https://twitter.com/livewellbake"
             ],
             "logo": {
                 "@type": "ImageObject",
-                "@id": "https://www.loveandlemons.com/#logo",
+                "@id": "https://www.livewellbakeoften.com/#logo",
                 "inLanguage": "en-US",
-                "url": "https://www.loveandlemons.com/wp-content/uploads/2019/11/favicon-192x192.png",
-                "contentUrl": "https://www.loveandlemons.com/wp-content/uploads/2019/11/favicon-192x192.png",
-                "width": 192,
-                "height": 192,
-                "caption": "Love and Lemons"
+                "url": "https://i1.wp.com/www.livewellbakeoften.com/wp-content/uploads/2019/07/Logo-31.jpg?fit=300%2C300&ssl=1",
+                "contentUrl": "https://i1.wp.com/www.livewellbakeoften.com/wp-content/uploads/2019/07/Logo-31.jpg?fit=300%2C300&ssl=1",
+                "width": 300,
+                "height": 300,
+                "caption": "Live Well Bake Often"
             },
             "image": {
-                "@id": "https://www.loveandlemons.com/#logo"
+                "@id": "https://www.livewellbakeoften.com/#logo"
             }
         },
         {
             "@type": "WebSite",
-            "@id": "https://www.loveandlemons.com/#website",
-            "url": "https://www.loveandlemons.com/",
-            "name": "Love and Lemons",
-            "description": "Healthy, whole food, vegan and vegetarian recipes",
+            "@id": "https://www.livewellbakeoften.com/#website",
+            "url": "https://www.livewellbakeoften.com/",
+            "name": "Live Well Bake Often",
+            "description": "",
             "publisher": {
-                "@id": "https://www.loveandlemons.com/#organization"
+                "@id": "https://www.livewellbakeoften.com/#organization"
             },
             "potentialAction": [
                 {
                     "@type": "SearchAction",
-                    "target": "https://www.loveandlemons.com/?s={search_term_string}",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://www.livewellbakeoften.com/?s={search_term_string}"
+                    },
                     "query-input": "required name=search_term_string"
                 }
             ],
@@ -46,177 +50,237 @@
         },
         {
             "@type": "ImageObject",
-            "@id": "https://www.loveandlemons.com/brownies-recipe/#primaryimage",
+            "@id": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#primaryimage",
             "inLanguage": "en-US",
-            "url": "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe.jpg",
-            "contentUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe.jpg",
-            "width": 1455,
-            "height": 1825
+            "url": "https://i0.wp.com/www.livewellbakeoften.com/wp-content/uploads/2019/01/Red-Velvet-Cake-8.jpg?fit=1200%2C1200&ssl=1",
+            "contentUrl": "https://i0.wp.com/www.livewellbakeoften.com/wp-content/uploads/2019/01/Red-Velvet-Cake-8.jpg?fit=1200%2C1200&ssl=1",
+            "width": 1200,
+            "height": 1200,
+            "caption": "A slice of red velvet cake topped with cream cheese frosting on a white decorative plate."
         },
         {
             "@type": "WebPage",
-            "@id": "https://www.loveandlemons.com/brownies-recipe/#webpage",
-            "url": "https://www.loveandlemons.com/brownies-recipe/",
-            "name": "Best Homemade Brownies - Love and Lemons",
+            "@id": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#webpage",
+            "url": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/",
+            "name": "The BEST Red Velvet Cake - Live Well Bake Often",
             "isPartOf": {
-                "@id": "https://www.loveandlemons.com/#website"
+                "@id": "https://www.livewellbakeoften.com/#website"
             },
             "primaryImageOfPage": {
-                "@id": "https://www.loveandlemons.com/brownies-recipe/#primaryimage"
+                "@id": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#primaryimage"
             },
-            "datePublished": "2020-01-28T14:34:41+00:00",
-            "dateModified": "2021-04-09T20:34:59+00:00",
-            "description": "The best brownie recipe! Made with cocoa powder and chocolate chips, these homemade brownies are fudgy, gooey, super chocolaty, and easy to make!",
+            "datePublished": "2019-01-28T15:32:53+00:00",
+            "dateModified": "2019-01-28T15:32:53+00:00",
+            "description": "This is my favorite Red Velvet Cake recipe! This cake is incredibly\u00a0soft, moist, buttery, and topped with an easy cream cheese frosting.",
             "breadcrumb": {
-                "@id": "https://www.loveandlemons.com/brownies-recipe/#breadcrumb"
+                "@id": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#breadcrumb"
             },
             "inLanguage": "en-US",
             "potentialAction": [
                 {
                     "@type": "ReadAction",
                     "target": [
-                        "https://www.loveandlemons.com/brownies-recipe/"
+                        "https://www.livewellbakeoften.com/the-best-red-velvet-cake/"
                     ]
                 }
             ]
         },
         {
             "@type": "BreadcrumbList",
-            "@id": "https://www.loveandlemons.com/brownies-recipe/#breadcrumb",
+            "@id": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#breadcrumb",
             "itemListElement": [
                 {
                     "@type": "ListItem",
                     "position": 1,
-                    "item": {
-                        "@type": "WebPage",
-                        "@id": "https://www.loveandlemons.com/",
-                        "url": "https://www.loveandlemons.com/",
-                        "name": "Home"
-                    }
+                    "name": "Home",
+                    "item": "https://www.livewellbakeoften.com/"
                 },
                 {
                     "@type": "ListItem",
                     "position": 2,
-                    "item": {
-                        "@type": "WebPage",
-                        "@id": "https://www.loveandlemons.com/brownies-recipe/",
-                        "url": "https://www.loveandlemons.com/brownies-recipe/",
-                        "name": "Best Homemade Brownies"
-                    }
+                    "name": "Cakes &amp; Cupcakes",
+                    "item": "https://www.livewellbakeoften.com/category/cakes-pies/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "The BEST Red Velvet Cake"
                 }
             ]
         },
         {
             "@type": "Article",
-            "@id": "https://www.loveandlemons.com/brownies-recipe/#article",
+            "@id": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#article",
             "isPartOf": {
-                "@id": "https://www.loveandlemons.com/brownies-recipe/#webpage"
+                "@id": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#webpage"
             },
             "author": {
-                "@id": "https://www.loveandlemons.com/#/schema/person/7dfc5cf0c47213d4c46786ada036f116"
+                "@id": "https://www.livewellbakeoften.com/#/schema/person/1cf6afb2ac9ff651505ad28223a267ef"
             },
-            "headline": "Best Homemade Brownies",
-            "datePublished": "2020-01-28T14:34:41+00:00",
-            "dateModified": "2021-04-09T20:34:59+00:00",
-            "commentCount": 1791,
+            "headline": "The BEST Red Velvet Cake",
+            "datePublished": "2019-01-28T15:32:53+00:00",
+            "dateModified": "2019-01-28T15:32:53+00:00",
+            "wordCount": 1393,
+            "commentCount": 462,
             "publisher": {
-                "@id": "https://www.loveandlemons.com/#organization"
+                "@id": "https://www.livewellbakeoften.com/#organization"
             },
             "image": {
-                "@id": "https://www.loveandlemons.com/brownies-recipe/#primaryimage"
+                "@id": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#primaryimage"
             },
-            "articleSection": "baking,dairy free,desserts,fall,Recipes,snacks &amp; dips,spring,summer,winter",
+            "thumbnailUrl": "https://i0.wp.com/www.livewellbakeoften.com/wp-content/uploads/2019/01/Red-Velvet-Cake-8.jpg?fit=1200%2C1200&ssl=1",
+            "keywords": [
+                "cake",
+                "red velvet",
+                "red velvet cake"
+            ],
+            "articleSection": [
+                "Cakes &amp; Cupcakes"
+            ],
             "inLanguage": "en-US",
             "potentialAction": [
                 {
                     "@type": "CommentAction",
                     "name": "Comment",
                     "target": [
-                        "https://www.loveandlemons.com/brownies-recipe/#respond"
+                        "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#respond"
                     ]
                 }
-            ],
-            "mainEntityOfPage": "https://www.loveandlemons.com/brownies-recipe/#webpage"
+            ]
         },
         {
             "@type": "Person",
-            "@id": "https://www.loveandlemons.com/#/schema/person/7dfc5cf0c47213d4c46786ada036f116",
-            "name": "Jeanine Donofrio",
-            "sameAs": [
-                "https://www.loveandlemons.com/"
-            ]
+            "@id": "https://www.livewellbakeoften.com/#/schema/person/1cf6afb2ac9ff651505ad28223a267ef",
+            "name": "Danielle",
+            "image": {
+                "@type": "ImageObject",
+                "@id": "https://www.livewellbakeoften.com/#personlogo",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/cc6fe9b825b572afd78456e36483a874?s=96&d=blank&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/cc6fe9b825b572afd78456e36483a874?s=96&d=blank&r=g",
+                "caption": "Danielle"
+            },
+            "url": "https://www.livewellbakeoften.com/author/livewellbakeoftengmail-com/"
         },
         {
             "@context": "http://schema.org/",
             "@type": "Recipe",
-            "name": "Best Homemade Brownies",
+            "name": "Red Velvet Cake",
             "author": {
                 "@type": "Person",
-                "name": "Michelle Lopez"
+                "name": "Danielle"
             },
-            "description": "The ultimate recipe for brownies! They&#x27;re fudgy, moist, and super chocolaty, with perfect crispy edges. From Weeknight Baking by Michelle Lopez.",
-            "datePublished": "2020-01-28T08:34:41+00:00",
+            "description": "This is my favorite Red Velvet Cake recipe! This cake is incredibly&nbsp;soft, moist, buttery, and topped with an easy cream cheese frosting.",
+            "datePublished": "2019-01-28T09:32:53+00:00",
             "image": [
-                "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe-500x500.jpg",
-                "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe-500x375.jpg",
-                "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe-480x270.jpg",
-                "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe.jpg"
+                "https://www.livewellbakeoften.com/wp-content/uploads/2019/01/Red-Velvet-Cake-8.jpg",
+                "https://www.livewellbakeoften.com/wp-content/uploads/2019/01/Red-Velvet-Cake-8-500x500.jpg",
+                "https://www.livewellbakeoften.com/wp-content/uploads/2019/01/Red-Velvet-Cake-8-500x375.jpg",
+                "https://www.livewellbakeoften.com/wp-content/uploads/2019/01/Red-Velvet-Cake-8-480x270.jpg"
             ],
             "recipeYield": [
-                "16",
-                "16 brownies"
+                "10",
+                "10 slices"
             ],
-            "prepTime": "PT5M",
-            "cookTime": "PT45M",
-            "totalTime": "PT50M",
+            "prepTime": "PT90M",
+            "cookTime": "PT30M",
+            "totalTime": "PT120M",
             "recipeIngredient": [
-                "1 1/2 cups granulated sugar*",
-                "3/4 cup all-purpose flour",
-                "2/3 cup cocoa powder (sifted if lumpy)",
-                "1/2 cup powdered sugar (sifted if lumpy)",
-                "1/2 cup dark chocolate chips",
-                "3/4 teaspoons sea salt",
-                "2  large eggs",
-                "1/2 cup canola oil or extra-virgin olive oil**",
-                "2 tablespoons water",
-                "1/2 teaspoon vanilla"
+                "2 and 2/3 cups (295 grams) cake flour  ((spooned &amp; leveled))",
+                "1/4 cup (22 grams) natural unsweetened cocoa powder",
+                "1  teaspoon baking soda",
+                "1/2  teaspoon  salt",
+                "1/2 cup (115 grams) unsalted butter (softened to room temperature)",
+                "1 and 3/4 cups (350 grams) granulated sugar",
+                "2 large eggs (room temperature)",
+                "1/2 cup (120 ml) canola or vegetable oil",
+                "1 (1-ounce) bottle liquid red food color",
+                "2 teaspoons pure vanilla extract",
+                "1 teaspoon distilled white vinegar",
+                "1 and 1/3 cups (320 ml) buttermilk (room temperature)",
+                "12 ounces brick-style cream cheese (softened)",
+                "3/4 cup (175 grams) unsalted butter (softened to room temperature)",
+                "3 cups (360 grams) powdered sugar",
+                "1  and 1/2 teaspoons pure vanilla extract"
             ],
             "recipeInstructions": [
                 {
-                    "@type": "HowToStep",
-                    "text": "Preheat the oven to 325\u00b0F. Lightly spray an 8x8 baking dish (not a 9x9 dish or your brownies will overcook) with cooking spray and line it with parchment paper. Spray the parchment paper.",
-                    "name": "Preheat the oven to 325\u00b0F. Lightly spray an 8x8 baking dish (not a 9x9 dish or your brownies will overcook) with cooking spray and line it with parchment paper. Spray the parchment paper.",
-                    "url": "https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-0"
+                    "@type": "HowToSection",
+                    "name": "To make the red velvet cake:",
+                    "itemListElement": [
+                        {
+                            "@type": "HowToStep",
+                            "text": "Preheat oven to 350\u00b0F (177\u00b0C). Spray two 9-inch cake&nbsp;pans well with nonstick cooking spray, line the bottoms of the pans with parchment paper, and set aside.",
+                            "name": "Preheat oven to 350\u00b0F (177\u00b0C). Spray two 9-inch cake&nbsp;pans well with nonstick cooking spray, line the bottoms of the pans with parchment paper, and set aside.",
+                            "url": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#wprm-recipe-18436-step-0-0"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "In a large mixing bowl, whisk together the cake flour, cocoa powder, baking soda, and salt. Then sift the dry ingredients to remove any lumps of cocoa powder. Set aside.",
+                            "name": "In a large mixing bowl, whisk together the cake flour, cocoa powder, baking soda, and salt. Then sift the dry ingredients to remove any lumps of cocoa powder. Set aside.",
+                            "url": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#wprm-recipe-18436-step-0-1"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "In the bowl of a stand mixer fitted with the paddle attachment, or in a large mixing bowl using an electric mixer, cream together the butter and sugar on medium speed for 4-5 minutes. Add the eggs and mix until fully combined, then mix in the oil, red food color, vanilla extract, and vinegar stopping to scrape down the sides of the bowl as needed.",
+                            "name": "In the bowl of a stand mixer fitted with the paddle attachment, or in a large mixing bowl using an electric mixer, cream together the butter and sugar on medium speed for 4-5 minutes. Add the eggs and mix until fully combined, then mix in the oil, red food color, vanilla extract, and vinegar stopping to scrape down the sides of the bowl as needed.",
+                            "url": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#wprm-recipe-18436-step-0-2"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Mix in the dry ingredients in three additions alternating with the buttermilk, starting and ending with the dry ingredients. Make sure to mix each addition until just combined and be careful not to over mix the batter.",
+                            "name": "Mix in the dry ingredients in three additions alternating with the buttermilk, starting and ending with the dry ingredients. Make sure to mix each addition until just combined and be careful not to over mix the batter.",
+                            "url": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#wprm-recipe-18436-step-0-3"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Evenly distribute the cake batter between the two prepared cake pans and spread the batter around into one even layer. Tap the pans on the counter 2-3 times to remove any air bubbles from the cakes.",
+                            "name": "Evenly distribute the cake batter between the two prepared cake pans and spread the batter around into one even layer. Tap the pans on the counter 2-3 times to remove any air bubbles from the cakes.",
+                            "url": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#wprm-recipe-18436-step-0-4"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Bake at 350\u00b0F (177\u00b0C) for 28-32 minutes or until a toothpick inserted into the center of the cakes comes out clean. Carefully remove from the oven and place on a wire rack to cool in the pans for 15-20 minutes. Then, carefully remove the cakes from the cake pans and place on the wire rack to cool completely.&nbsp;",
+                            "name": "Bake at 350\u00b0F (177\u00b0C) for 28-32 minutes or until a toothpick inserted into the center of the cakes comes out clean. Carefully remove from the oven and place on a wire rack to cool in the pans for 15-20 minutes. Then, carefully remove the cakes from the cake pans and place on the wire rack to cool completely.&nbsp;",
+                            "url": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#wprm-recipe-18436-step-0-5"
+                        }
+                    ]
                 },
                 {
-                    "@type": "HowToStep",
-                    "text": "In a medium bowl, combine the sugar, flour, cocoa powder, powdered sugar, chocolate chips, and salt.",
-                    "name": "In a medium bowl, combine the sugar, flour, cocoa powder, powdered sugar, chocolate chips, and salt.",
-                    "url": "https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-1"
+                    "@type": "HowToSection",
+                    "name": "To make the cream cheese frosting:",
+                    "itemListElement": [
+                        {
+                            "@type": "HowToStep",
+                            "text": "In the bowl of a stand mixer fitted with the paddle attachment, or in a large mixing bowl using an electric mixer, beat the cream cheese until smooth. Add the butter and mix for about 30 seconds-1 minute until well combined and smooth.&nbsp;",
+                            "name": "In the bowl of a stand mixer fitted with the paddle attachment, or in a large mixing bowl using an electric mixer, beat the cream cheese until smooth. Add the butter and mix for about 30 seconds-1 minute until well combined and smooth.&nbsp;",
+                            "url": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#wprm-recipe-18436-step-1-0"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Mix in the powdered sugar and vanilla extract and continue mixing until fully combined, scraping down the sides of the bowl as needed.",
+                            "name": "Mix in the powdered sugar and vanilla extract and continue mixing until fully combined, scraping down the sides of the bowl as needed.",
+                            "url": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#wprm-recipe-18436-step-1-1"
+                        }
+                    ]
                 },
                 {
-                    "@type": "HowToStep",
-                    "text": "In a large bowl, whisk together the eggs, olive oil, water, and vanilla.",
-                    "name": "In a large bowl, whisk together the eggs, olive oil, water, and vanilla.",
-                    "url": "https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-2"
-                },
-                {
-                    "@type": "HowToStep",
-                    "text": "Sprinkle the dry mix over the wet mix and stir until just combined.",
-                    "name": "Sprinkle the dry mix over the wet mix and stir until just combined.",
-                    "url": "https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-3"
-                },
-                {
-                    "@type": "HowToStep",
-                    "text": "Pour the batter into the prepared pan (it&#x27;ll be thick - that&#x27;s ok) and use a spatula to smooth the top. Bake for 40 to 48 minutes, or until a toothpick comes out with only a few crumbs attached (note: it&#x27;s better to pull the brownies out early than to leave them in too long). Cool completely before slicing.*** Store in an airtight container at room temperature for up to 3 days. These also freeze well!",
-                    "name": "Pour the batter into the prepared pan (it&#x27;ll be thick - that&#x27;s ok) and use a spatula to smooth the top. Bake for 40 to 48 minutes, or until a toothpick comes out with only a few crumbs attached (note: it&#x27;s better to pull the brownies out early than to leave them in too long). Cool completely before slicing.*** Store in an airtight container at room temperature for up to 3 days. These also freeze well!",
-                    "url": "https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-4"
+                    "@type": "HowToSection",
+                    "name": "To assemble the cake:",
+                    "itemListElement": [
+                        {
+                            "@type": "HowToStep",
+                            "text": "Level the tops of each cake with a knife or cake leveler. Place one of the cake layers on a cake stand or plate, top with a layer of frosting, and smooth it out into one even layer. Place the second layer on top, then use the remaining frosting to frost the top and sides of the cake.",
+                            "name": "Level the tops of each cake with a knife or cake leveler. Place one of the cake layers on a cake stand or plate, top with a layer of frosting, and smooth it out into one even layer. Place the second layer on top, then use the remaining frosting to frost the top and sides of the cake.",
+                            "url": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#wprm-recipe-18436-step-2-0"
+                        }
+                    ]
                 }
             ],
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": "4.94",
-                "ratingCount": "3533"
+                "ratingValue": "4.95",
+                "ratingCount": "77"
             },
             "recipeCategory": [
                 "Dessert"
@@ -224,8 +288,12 @@
             "recipeCuisine": [
                 "American"
             ],
-            "keywords": "Brownie recipe, Brownies, Recipe for brownies",
-            "@id": "https://www.loveandlemons.com/brownies-recipe/#recipe"
+            "keywords": "easy red velvet cake recipe, red velvet cake",
+            "@id": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#recipe",
+            "isPartOf": {
+                "@id": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#article"
+            },
+            "mainEntityOfPage": "https://www.livewellbakeoften.com/the-best-red-velvet-cake/#webpage"
         }
     ]
 }
