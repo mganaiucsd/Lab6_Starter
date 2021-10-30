@@ -4,6 +4,7 @@
         "@type": "organization",
         "name": "The Stay at Home Chef"
     },
+    "url": "https://thestayathomechef.com/the-most-amazing-chocolate-cake/",
     "@graph": [
         {
             "@type": "WebSite",
