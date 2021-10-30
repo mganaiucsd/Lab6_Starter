@@ -1,1 +1,231 @@
-{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.loveandlemons.com/#organization","name":"Love and Lemons","url":"https://www.loveandlemons.com/","sameAs":["https://www.facebook.com/lovelemonsfood","https://www.instagram.com/loveandlemons/","https://www.pinterest.com/loveandlemons/","https://twitter.com/lovelemonsfood"],"logo":{"@type":"ImageObject","@id":"https://www.loveandlemons.com/#logo","inLanguage":"en-US","url":"https://www.loveandlemons.com/wp-content/uploads/2019/11/favicon-192x192.png","contentUrl":"https://www.loveandlemons.com/wp-content/uploads/2019/11/favicon-192x192.png","width":192,"height":192,"caption":"Love and Lemons"},"image":{"@id":"https://www.loveandlemons.com/#logo"}},{"@type":"WebSite","@id":"https://www.loveandlemons.com/#website","url":"https://www.loveandlemons.com/","name":"Love and Lemons","description":"Healthy, whole food, vegan and vegetarian recipes","publisher":{"@id":"https://www.loveandlemons.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.loveandlemons.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.loveandlemons.com/brownies-recipe/#primaryimage","inLanguage":"en-US","url":"https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe.jpg","contentUrl":"https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe.jpg","width":1455,"height":1825},{"@type":"WebPage","@id":"https://www.loveandlemons.com/brownies-recipe/#webpage","url":"https://www.loveandlemons.com/brownies-recipe/","name":"Best Homemade Brownies - Love and Lemons","isPartOf":{"@id":"https://www.loveandlemons.com/#website"},"primaryImageOfPage":{"@id":"https://www.loveandlemons.com/brownies-recipe/#primaryimage"},"datePublished":"2020-01-28T14:34:41+00:00","dateModified":"2021-04-09T20:34:59+00:00","description":"The best brownie recipe! Made with cocoa powder and chocolate chips, these homemade brownies are fudgy, gooey, super chocolaty, and easy to make!","breadcrumb":{"@id":"https://www.loveandlemons.com/brownies-recipe/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.loveandlemons.com/brownies-recipe/"]}]},{"@type":"BreadcrumbList","@id":"https://www.loveandlemons.com/brownies-recipe/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.loveandlemons.com/","url":"https://www.loveandlemons.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.loveandlemons.com/brownies-recipe/","url":"https://www.loveandlemons.com/brownies-recipe/","name":"Best Homemade Brownies"}}]},{"@type":"Article","@id":"https://www.loveandlemons.com/brownies-recipe/#article","isPartOf":{"@id":"https://www.loveandlemons.com/brownies-recipe/#webpage"},"author":{"@id":"https://www.loveandlemons.com/#/schema/person/7dfc5cf0c47213d4c46786ada036f116"},"headline":"Best Homemade Brownies","datePublished":"2020-01-28T14:34:41+00:00","dateModified":"2021-04-09T20:34:59+00:00","commentCount":1791,"publisher":{"@id":"https://www.loveandlemons.com/#organization"},"image":{"@id":"https://www.loveandlemons.com/brownies-recipe/#primaryimage"},"articleSection":"baking,dairy free,desserts,fall,Recipes,snacks &amp; dips,spring,summer,winter","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.loveandlemons.com/brownies-recipe/#respond"]}],"mainEntityOfPage":"https://www.loveandlemons.com/brownies-recipe/#webpage"},{"@type":"Person","@id":"https://www.loveandlemons.com/#/schema/person/7dfc5cf0c47213d4c46786ada036f116","name":"Jeanine Donofrio","sameAs":["https://www.loveandlemons.com/"]},{"@context":"http://schema.org/","@type":"Recipe","name":"Best Homemade Brownies","author":{"@type":"Person","name":"Michelle Lopez"},"description":"The ultimate recipe for brownies! They&#x27;re fudgy, moist, and super chocolaty, with perfect crispy edges. From Weeknight Baking by Michelle Lopez.","datePublished":"2020-01-28T08:34:41+00:00","image":["https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe-500x500.jpg","https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe-500x375.jpg","https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe-480x270.jpg","https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe.jpg"],"recipeYield":["16","16 brownies"],"prepTime":"PT5M","cookTime":"PT45M","recipeIngredient":["1 1/2 cups granulated sugar*","3/4 cup all-purpose flour","2/3 cup cocoa powder (sifted if lumpy)","1/2 cup powdered sugar (sifted if lumpy)","1/2 cup dark chocolate chips","3/4 teaspoons sea salt","2  large eggs","1/2 cup canola oil or extra-virgin olive oil**","2 tablespoons water","1/2 teaspoon vanilla"],"recipeInstructions":[{"@type":"HowToStep","text":"Preheat the oven to 325\u00b0F. Lightly spray an 8x8 baking dish (not a 9x9 dish or your brownies will overcook) with cooking spray and line it with parchment paper. Spray the parchment paper.","name":"Preheat the oven to 325\u00b0F. Lightly spray an 8x8 baking dish (not a 9x9 dish or your brownies will overcook) with cooking spray and line it with parchment paper. Spray the parchment paper.","url":"https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-0"},{"@type":"HowToStep","text":"In a medium bowl, combine the sugar, flour, cocoa powder, powdered sugar, chocolate chips, and salt.","name":"In a medium bowl, combine the sugar, flour, cocoa powder, powdered sugar, chocolate chips, and salt.","url":"https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-1"},{"@type":"HowToStep","text":"In a large bowl, whisk together the eggs, olive oil, water, and vanilla.","name":"In a large bowl, whisk together the eggs, olive oil, water, and vanilla.","url":"https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-2"},{"@type":"HowToStep","text":"Sprinkle the dry mix over the wet mix and stir until just combined.","name":"Sprinkle the dry mix over the wet mix and stir until just combined.","url":"https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-3"},{"@type":"HowToStep","text":"Pour the batter into the prepared pan (it&#x27;ll be thick - that&#x27;s ok) and use a spatula to smooth the top. Bake for 40 to 48 minutes, or until a toothpick comes out with only a few crumbs attached (note: it&#x27;s better to pull the brownies out early than to leave them in too long). Cool completely before slicing.*** Store in an airtight container at room temperature for up to 3 days. These also freeze well!","name":"Pour the batter into the prepared pan (it&#x27;ll be thick - that&#x27;s ok) and use a spatula to smooth the top. Bake for 40 to 48 minutes, or until a toothpick comes out with only a few crumbs attached (note: it&#x27;s better to pull the brownies out early than to leave them in too long). Cool completely before slicing.*** Store in an airtight container at room temperature for up to 3 days. These also freeze well!","url":"https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-4"}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.94","ratingCount":"3533"},"recipeCategory":["Dessert"],"recipeCuisine":["American"],"keywords":"Brownie recipe, Brownies, Recipe for brownies","@id":"https://www.loveandlemons.com/brownies-recipe/#recipe"}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "@id": "https://www.loveandlemons.com/#organization",
+            "name": "Love and Lemons",
+            "url": "https://www.loveandlemons.com/",
+            "sameAs": [
+                "https://www.facebook.com/lovelemonsfood",
+                "https://www.instagram.com/loveandlemons/",
+                "https://www.pinterest.com/loveandlemons/",
+                "https://twitter.com/lovelemonsfood"
+            ],
+            "logo": {
+                "@type": "ImageObject",
+                "@id": "https://www.loveandlemons.com/#logo",
+                "inLanguage": "en-US",
+                "url": "https://www.loveandlemons.com/wp-content/uploads/2019/11/favicon-192x192.png",
+                "contentUrl": "https://www.loveandlemons.com/wp-content/uploads/2019/11/favicon-192x192.png",
+                "width": 192,
+                "height": 192,
+                "caption": "Love and Lemons"
+            },
+            "image": {
+                "@id": "https://www.loveandlemons.com/#logo"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://www.loveandlemons.com/#website",
+            "url": "https://www.loveandlemons.com/",
+            "name": "Love and Lemons",
+            "description": "Healthy, whole food, vegan and vegetarian recipes",
+            "publisher": {
+                "@id": "https://www.loveandlemons.com/#organization"
+            },
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": "https://www.loveandlemons.com/?s={search_term_string}",
+                    "query-input": "required name=search_term_string"
+                }
+            ],
+            "inLanguage": "en-US"
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.loveandlemons.com/brownies-recipe/#primaryimage",
+            "inLanguage": "en-US",
+            "url": "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe.jpg",
+            "contentUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe.jpg",
+            "width": 1455,
+            "height": 1825
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://www.loveandlemons.com/brownies-recipe/#webpage",
+            "url": "https://www.loveandlemons.com/brownies-recipe/",
+            "name": "Best Homemade Brownies - Love and Lemons",
+            "isPartOf": {
+                "@id": "https://www.loveandlemons.com/#website"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://www.loveandlemons.com/brownies-recipe/#primaryimage"
+            },
+            "datePublished": "2020-01-28T14:34:41+00:00",
+            "dateModified": "2021-04-09T20:34:59+00:00",
+            "description": "The best brownie recipe! Made with cocoa powder and chocolate chips, these homemade brownies are fudgy, gooey, super chocolaty, and easy to make!",
+            "breadcrumb": {
+                "@id": "https://www.loveandlemons.com/brownies-recipe/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+                {
+                    "@type": "ReadAction",
+                    "target": [
+                        "https://www.loveandlemons.com/brownies-recipe/"
+                    ]
+                }
+            ]
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.loveandlemons.com/brownies-recipe/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@type": "WebPage",
+                        "@id": "https://www.loveandlemons.com/",
+                        "url": "https://www.loveandlemons.com/",
+                        "name": "Home"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@type": "WebPage",
+                        "@id": "https://www.loveandlemons.com/brownies-recipe/",
+                        "url": "https://www.loveandlemons.com/brownies-recipe/",
+                        "name": "Best Homemade Brownies"
+                    }
+                }
+            ]
+        },
+        {
+            "@type": "Article",
+            "@id": "https://www.loveandlemons.com/brownies-recipe/#article",
+            "isPartOf": {
+                "@id": "https://www.loveandlemons.com/brownies-recipe/#webpage"
+            },
+            "author": {
+                "@id": "https://www.loveandlemons.com/#/schema/person/7dfc5cf0c47213d4c46786ada036f116"
+            },
+            "headline": "Best Homemade Brownies",
+            "datePublished": "2020-01-28T14:34:41+00:00",
+            "dateModified": "2021-04-09T20:34:59+00:00",
+            "commentCount": 1791,
+            "publisher": {
+                "@id": "https://www.loveandlemons.com/#organization"
+            },
+            "image": {
+                "@id": "https://www.loveandlemons.com/brownies-recipe/#primaryimage"
+            },
+            "articleSection": "baking,dairy free,desserts,fall,Recipes,snacks &amp; dips,spring,summer,winter",
+            "inLanguage": "en-US",
+            "potentialAction": [
+                {
+                    "@type": "CommentAction",
+                    "name": "Comment",
+                    "target": [
+                        "https://www.loveandlemons.com/brownies-recipe/#respond"
+                    ]
+                }
+            ],
+            "mainEntityOfPage": "https://www.loveandlemons.com/brownies-recipe/#webpage"
+        },
+        {
+            "@type": "Person",
+            "@id": "https://www.loveandlemons.com/#/schema/person/7dfc5cf0c47213d4c46786ada036f116",
+            "name": "Jeanine Donofrio",
+            "sameAs": [
+                "https://www.loveandlemons.com/"
+            ]
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Recipe",
+            "name": "Best Homemade Brownies",
+            "author": {
+                "@type": "Person",
+                "name": "Michelle Lopez"
+            },
+            "description": "The ultimate recipe for brownies! They&#x27;re fudgy, moist, and super chocolaty, with perfect crispy edges. From Weeknight Baking by Michelle Lopez.",
+            "datePublished": "2020-01-28T08:34:41+00:00",
+            "image": [
+                "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe-500x500.jpg",
+                "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe-500x375.jpg",
+                "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe-480x270.jpg",
+                "https://cdn.loveandlemons.com/wp-content/uploads/2020/01/brownie-recipe.jpg"
+            ],
+            "recipeYield": [
+                "16",
+                "16 brownies"
+            ],
+            "prepTime": "PT5M",
+            "cookTime": "PT45M",
+            "totalTime": "PT50M",
+            "recipeIngredient": [
+                "1 1/2 cups granulated sugar*",
+                "3/4 cup all-purpose flour",
+                "2/3 cup cocoa powder (sifted if lumpy)",
+                "1/2 cup powdered sugar (sifted if lumpy)",
+                "1/2 cup dark chocolate chips",
+                "3/4 teaspoons sea salt",
+                "2  large eggs",
+                "1/2 cup canola oil or extra-virgin olive oil**",
+                "2 tablespoons water",
+                "1/2 teaspoon vanilla"
+            ],
+            "recipeInstructions": [
+                {
+                    "@type": "HowToStep",
+                    "text": "Preheat the oven to 325\u00b0F. Lightly spray an 8x8 baking dish (not a 9x9 dish or your brownies will overcook) with cooking spray and line it with parchment paper. Spray the parchment paper.",
+                    "name": "Preheat the oven to 325\u00b0F. Lightly spray an 8x8 baking dish (not a 9x9 dish or your brownies will overcook) with cooking spray and line it with parchment paper. Spray the parchment paper.",
+                    "url": "https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-0"
+                },
+                {
+                    "@type": "HowToStep",
+                    "text": "In a medium bowl, combine the sugar, flour, cocoa powder, powdered sugar, chocolate chips, and salt.",
+                    "name": "In a medium bowl, combine the sugar, flour, cocoa powder, powdered sugar, chocolate chips, and salt.",
+                    "url": "https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-1"
+                },
+                {
+                    "@type": "HowToStep",
+                    "text": "In a large bowl, whisk together the eggs, olive oil, water, and vanilla.",
+                    "name": "In a large bowl, whisk together the eggs, olive oil, water, and vanilla.",
+                    "url": "https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-2"
+                },
+                {
+                    "@type": "HowToStep",
+                    "text": "Sprinkle the dry mix over the wet mix and stir until just combined.",
+                    "name": "Sprinkle the dry mix over the wet mix and stir until just combined.",
+                    "url": "https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-3"
+                },
+                {
+                    "@type": "HowToStep",
+                    "text": "Pour the batter into the prepared pan (it&#x27;ll be thick - that&#x27;s ok) and use a spatula to smooth the top. Bake for 40 to 48 minutes, or until a toothpick comes out with only a few crumbs attached (note: it&#x27;s better to pull the brownies out early than to leave them in too long). Cool completely before slicing.*** Store in an airtight container at room temperature for up to 3 days. These also freeze well!",
+                    "name": "Pour the batter into the prepared pan (it&#x27;ll be thick - that&#x27;s ok) and use a spatula to smooth the top. Bake for 40 to 48 minutes, or until a toothpick comes out with only a few crumbs attached (note: it&#x27;s better to pull the brownies out early than to leave them in too long). Cool completely before slicing.*** Store in an airtight container at room temperature for up to 3 days. These also freeze well!",
+                    "url": "https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-42107-step-0-4"
+                }
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.94",
+                "ratingCount": "3533"
+            },
+            "recipeCategory": [
+                "Dessert"
+            ],
+            "recipeCuisine": [
+                "American"
+            ],
+            "keywords": "Brownie recipe, Brownies, Recipe for brownies",
+            "@id": "https://www.loveandlemons.com/brownies-recipe/#recipe"
+        }
+    ]
+}

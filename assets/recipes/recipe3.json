@@ -1,1 +1,104 @@
-{"@context":"http://schema.org","@type":"Recipe","mainEntityOfPage":"true","name":"The Perfect Burger","author":"CountryLady","cookTime":"PT15M","prepTime":"PT15M","totalTime":"PT30M","datePublished":"2004-05-27T19:59Z","description":"Here are the ingredients & the instructions to make the perfect burger! Although it may not be the healthiest, use medium ground beef for moistness & flavour. The leaner varieties produce burgers that are drier with a denser, tighter texture. Don't use previously frozen meat as juices are lost during defrosting. If making ahead, cover with plastic wrap & refrigerate for no more than a day. Enjoy!","image":"https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/92/02/1/ArhyYe9RTCrWPsuTu5hw_0S9A9973.jpg","recipeCategory":"Meat","keywords":"Kid Friendly,Spring,Summer,Camping,< 30 Mins,Easy,Inexpensive","recipeIngredient":["1       egg","1   teaspoon    mustard (regular or Dijon)","1   teaspoon    Worcestershire sauce","1   small    onion, finely grated ","1   clove    garlic, minced ","1/2  teaspoon    salt","1/2  teaspoon    pepper","1   lb   medium ground beef","1   tablespoon   creamy caesar salad dressing or 1   tablespoon    Greek salad dressing","1   tablespoon   chopped sun-dried tomato","1   tablespoon    sour cream or 1   tablespoon    yoghurt","1   tablespoon   grated fresh lemon rind or 1   tablespoon    lime rind","1   tablespoon   grated gingerroot","1   tablespoon    ketchup or 1   tablespoon    barbecue sauce","1   teaspoon    lemon pepper","1   teaspoon    curry powder","1   teaspoon    dried thyme or 1   teaspoon    dried rosemary","1   tablespoon    fresh herb","2   teaspoons    cajun seasoning","1   teaspoon    sesame oil","1   teaspoon    teriyaki sauce or 1   teaspoon    hoisin sauce","1       fresh jalapenos or 1       pickled jalapeno pepper, chopped "],"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":"189"},"nutrition":{"@type":"NutritionInformation","calories":"320.4","fatContent":"22.3","saturatedFatContent":"7.9","cholesterolContent":"126.6","sodiumContent":"575.5","carbohydrateContent":"5.5","fiberContent":"1.1","sugarContent":"2.8","proteinContent":"23.6"},"recipeInstructions":[{"@type":"HowToStep","text":"Lightly oil grill& heat BBQ to medium."},{"@type":"HowToStep","text":"Whisk egg in a bowl& add next 6 ingredients."},{"@type":"HowToStep","text":"Add any of the &#x93;stir-ins&#x94; that appeal to you."},{"@type":"HowToStep","text":"Crumble in beef& using your hands or a fork, gently mix together."},{"@type":"HowToStep","text":"Handle the meat as little as possible &#x96; the more you work it, the tougher it gets."},{"@type":"HowToStep","text":"Gently shape (don&#x92;t firmly press) mixture into burgers about &#xBE; inch thick."},{"@type":"HowToStep","text":"Using your thumb, make a shallow depression in the centre of each burger to prevent puffing up during cooking."},{"@type":"HowToStep","text":"Place burgers on the grill, close lid& BBQ until NO LONGER PINK INSIDE, turning once, about 6 &#x96; 8 minutes per side."},{"@type":"HowToStep","text":"An instant read thermometer should read 160F."},{"@type":"HowToStep","text":"Don't abuse your burgers by pressing with a spatula, pricking with a fork or turning frequently as precious juices will be lost!"},{"@type":"HowToStep","text":"Tuck into a warm crusty bun& add your favourite toppings."}],"recipeYield":"4 serving(s)","review":[{"@type":"Review","description":"I have no idea why the first review said they couldn&#039;t get this to stick together on the grill.   Be gentle with the meat and leave it alone while it is on the grill.  Don&#039;t pat, poke, or flip it more than once.  I did this recipe as stated with no extra add ins.  The result was simply burger heaven.  This was the first time I attempted to prepare my own patties.  I will never by the frozen junk again.  This is too easy to make and adds a whole new definition of burger.  This was the best burger I have ever had!","datePublished":"October 18, 2015","itemReviewed":{"@type":"Thing","name":"The Perfect Burger"},"reviewRating":{"@type":"Rating","worstRating":"1","ratingValue":5,"bestRating":"5"},"author":"stinsniper .."}],"publisher":{"@type":"Organization","name":"Food.com","logo":{"@type":"ImageObject","url":"https://geniuskitchen.sndimg.com/fdc-new/img/FDC-Logo.png"},"url":"https://www.food.com"}}
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "name": "Pizza Margherita",
+    "description": "Here is the archetype of a thin-crust pizza pie, a pizza margherita adorned simply in the colors of the Italian flag: green from basil, white from mozzarella, red from tomato sauce. This pizza is adapted from the recipe used by the staff at Roberta’s restaurant in Brooklyn, who make their tomato sauce simply by whizzing together canned tomatoes, a drizzle of olive oil and a pinch of salt. The ingredients offer in their proportions what appears to be a kind of austerity — not even 3 ounces of cheese! But the result is home-cooked pizza to beat the band, exactly the sort of recipe to start a career in home pizza-making, and to return to again and again.",
+    "author": {
+        "@type": "Person",
+        "name": "Sam Sifton"
+    },
+    "image": "https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-articleLarge-v3.jpg",
+    "totalTime": "PT15M",
+    "recipeYield": "2 servings",
+    "recipeCuisine": "italian",
+    "recipeCategory": "dinner, lunch, pizza and calzones, appetizer, main course",
+    "keywords": "mozzarella, pizza dough, tomato sauce",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2157
+    },
+    "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 453,
+        "unsaturatedFatContent": "7 grams",
+        "carbohydrateContent": "59 grams",
+        "cholesterolContent": null,
+        "fatContent": "15 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "19 grams",
+        "saturatedFatContent": "6 grams",
+        "sodiumContent": "1052 milligrams",
+        "sugarContent": "2 grams",
+        "transFatContent": null
+    },
+    "recipeIngredient": [
+        "1 12-inch round of pizza dough, stretched \u003ca href=\"http://cooking.nytimes.com/recipes/1016230-robertas-pizza-dough\"\u003e(see recipe)\u003c/a\u003e",
+        "3 tablespoons tomato sauce (see note)",
+        "Extra-virgin olive oil",
+        "2 3/4 ounces fresh mozzarella",
+        "4 to 5 basil leaves, roughly torn"
+    ],
+    "recipeInstructions": [
+        {
+            "@context": "http://schema.org",
+            "@type": "HowToStep",
+            "text": "Place a pizza stone or tiles on the middle rack of your oven and turn heat to its highest setting. Let it heat for at least an hour."
+        },
+        {
+            "@context": "http://schema.org",
+            "@type": "HowToStep",
+            "text": "Put the sauce in the center of the stretched dough and use the back of a spoon to spread it evenly across the surface, stopping approximately 1/2 inch from the edges."
+        },
+        {
+            "@context": "http://schema.org",
+            "@type": "HowToStep",
+            "text": "Drizzle a little olive oil over the pie. Break the cheese into large pieces and place these gently on the sauce. Scatter basil leaves over the top."
+        },
+        {
+            "@context": "http://schema.org",
+            "@type": "HowToStep",
+            "text": "Using a pizza peel, pick up the pie and slide it onto the heated stone or tiles in the oven. Bake until the crust is golden brown and the cheese is bubbling, approximately 4 to 8 minutes."
+        }
+    ],
+    "isAccessibleForFree": "False",
+    "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": "False",
+        "cssSelector": ".recipe"
+    },
+    "publisher": {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "NYT Cooking",
+        "url": "https://cooking.nytimes.com",
+        "alternateName": [
+            "nytimes cooking",
+            "New York Times Cooking"
+        ],
+        "image": [
+            {
+                "url": "https://static01.nyt.com/applications/cooking/80b7044/assets/SiteLogoRed.svg",
+                "height": 31,
+                "width": 168,
+                "@context": "http://schema.org",
+                "@type": "ImageObject"
+            },
+            {
+                "url": "https://static01.nyt.com/applications/cooking/80b7044/assets/SiteLogoBlack.svg",
+                "height": 24,
+                "width": 131,
+                "@context": "http://schema.org",
+                "@type": "ImageObject"
+            }
+        ],
+        "sameAs": [
+            "https://www.facebook.com/groups/nytcooks/",
+            "https://www.facebook.com/nytcooking/",
+            "https://www.instagram.com/nytcooking/",
+            "https://twitter.com/nytfood",
+            "https://www.youtube.com/channel/UC1rIOwTqDuWkFj87HZYRFOg"
+        ]
+    }
+}
