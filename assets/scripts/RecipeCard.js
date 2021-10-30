@@ -132,7 +132,7 @@ class RecipeCard extends HTMLElement {
 
         const rateVal = Math.round(rev.innerHTML);
         const imgRate = document.createElement('img');
-        imgRate.src = `/assets/images/icons/${rateVal}-star.svg`;
+        imgRate.src = `assets/images/icons/${rateVal}-star.svg`;
         imgRate.alt = `${rateVal} stars`;
         ratings.appendChild(imgRate);
 
