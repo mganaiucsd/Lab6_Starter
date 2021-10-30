@@ -46,13 +46,13 @@ async function fetchRecipes() {
     // in the recipes folder and fetch them from there. You'll need to add their paths to the recipes array.
 
     // Part 1 Expose - TODO
-    
-    for (let i = 0; i < recipes.length; i++){
-        fetch(recipes[i])
+
+    for (let i = 0; i < recipes.length; i++) {
+      fetch(recipes[i])
         .then(res => res.json())
         .then((data) => {
           recipeData[recipes[i]] = data;
-          if (recipes.length == Object.keys(recipeData).length){
+          if (recipes.length == Object.keys(recipeData).length) {
             resolve(true);
           }
         })
@@ -69,11 +69,16 @@ function createRecipeCards() {
   // show any others you've added when the user clicks on the "Show more" button.
 
   // Part 1 Expose - TODO
-  var main = document.querySelector('main');
+  let main = document.querySelector('main');
+  let i = 0;
   for (let url in recipeData) {
-    var newRecipe = document.createElement('recipe-card');
+    i++;
+    let newRecipe = document.createElement('recipe-card');
     newRecipe.data = recipeData[url];
     main.appendChild(newRecipe);
+    if (i == 3) {
+      break;
+    }
   }
 }
 
@@ -84,12 +89,26 @@ function bindShowMore() {
   // that were fetched. You should fetch every recipe in the beginning, whether you
   // display it or not, so you don't need to fetch them again. Simply access them
   // in the recipeData object where you stored them/
-  var main = document.querySelector('main');
-var button = querySelector('button');
+  let main = document.querySelector('main');
+  let button = document.querySelector('button');
+
   button.addEventListener('click', event => {
+    if (button.innerText == 'Show more') {
+      for (let i = 3; i < recipes.length; i++) {
+        let newRecipe = document.createElement('recipe-card');
+        newRecipe.data = recipeData[recipes[i]];
+        main.appendChild(newRecipe);
+      }
+      button.innerText = 'Show less';
+    }
 
-  }
-
+    else if (button.innerText == 'Show less') {
+      for (let i = 0; i < 3; i++) {
+        main.removeChild(main.lastElementChild);
+      }
+      button.innerText = 'Show more';
+    }
+  });
+}
 
   // Part 2 Explore - TODO
-}
